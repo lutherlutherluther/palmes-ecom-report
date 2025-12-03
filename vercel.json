@@ -1,9 +1,4 @@
 {
-  "functions": {
-    "api/weekly-report.ts": {
-      "runtime": "nodejs20.x"
-    }
-  },
   "crons": [
     {
       "path": "/api/weekly-report",
